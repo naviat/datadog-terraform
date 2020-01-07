@@ -12,8 +12,8 @@ How to run:
 - Run the following:
 
 ``` sh
-$ git clone https://github.com/naviat/datadog-terraform-example.git
-$ cd datadog-terraform-example
+$ git clone https://github.com/naviat/datadog-terraform.git
+$ cd datadog-terraform
 $ terraform init
 $ terraform plan # You'll be asked to input your Datadog API and APP keys
 $ terraform apply
